@@ -71,6 +71,11 @@ a.button {
 .classOneColor{
   background-color: #A8D0E6;
 }
+
+.nameBold{
+  font-weight: 900;
+}
+
 /* table, th, td {
   border-style: solid;
   border-width: 2px;
