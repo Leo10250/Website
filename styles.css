@@ -72,8 +72,20 @@ a.button {
   background-color: #A8D0E6;
 }
 
+.classTwoColor{
+  background-color: white;
+}
+
+.classThreeColor{
+  background-color: #88BDBC;
+}
+
 .nameBold{
   font-weight: 900;
+}
+
+.whiteSpace1{
+  height: 50px;
 }
 
 /* table, th, td {
