@@ -59,6 +59,18 @@ a.button {
   font-weight: bolder;
   font-size: 20px;
 }
+
+.profileWhiteSpace{
+  height: 200px;
+}
+
+.whiteSpace{
+  height: 200px;
+}
+
+.classOneColor{
+  background-color: #A8D0E6;
+}
 /* table, th, td {
   border-style: solid;
   border-width: 2px;
