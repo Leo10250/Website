@@ -88,6 +88,10 @@ a.button {
   height: 50px;
 }
 
+.navPadding{
+  height: 80px;
+}
+
 /* table, th, td {
   border-style: solid;
   border-width: 2px;
