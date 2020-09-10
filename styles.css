@@ -32,6 +32,10 @@ body {
   font-size: 60px;
 }
 
+.intro2{
+  font-weight: bold;
+}
+
 .center-block {
     display: block;
     margin-left: auto;
@@ -42,13 +46,17 @@ body {
   margin: auto;
 }
 
-a.button {
+/* a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
 
     text-decoration: none;
     color: initial;
+} */
+
+.selfie:hover{
+  opacity: 0.6;
 }
 
 .name{
