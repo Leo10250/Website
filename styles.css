@@ -21,10 +21,19 @@ body {
 
 .selfie {
   border-radius: 50%;
-  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 15%;
+}
+
+.center{
+  text-align: center;
+  
+}
+
+.resize{
+  height: 60px;
+  width: auto;
 }
 
 .intro{
