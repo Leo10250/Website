@@ -36,6 +36,11 @@ body {
   width: auto;
 }
 
+.resize1{
+  height: 120px;
+  width: auto;
+}
+
 .intro{
   font-weight: bold;
   font-size: 60px;
@@ -55,14 +60,19 @@ body {
   margin: auto;
 }
 
-/* a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
+.button1{
+  background-color: #e7e7e7;
+  font-size: 20px;
+  color: black;
+  font-weight: bolder;
+  border-radius: 4px;
+  border: 2px solid ##e7e7e7;
+  padding: 10px 24px;
+}
 
-    text-decoration: none;
-    color: initial;
-} */
+.button1:hover{
+  opacity: 0.6;
+}
 
 .selfie:hover{
   opacity: 0.6;
@@ -107,6 +117,10 @@ body {
 
 .whiteSpace1{
   height: 50px;
+}
+
+.whiteSpace2{
+  height: 30px;
 }
 
 .navPadding{
