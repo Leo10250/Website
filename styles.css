@@ -8,15 +8,15 @@ h2 {
 
 p {
   font-size: 25px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 body {
   background-color: #f5c6c7;
 }
 
-.navbar-brand{
-    min-height: 80px;
+.navbar-brand {
+  min-height: 80px;
 }
 
 .selfie {
@@ -26,41 +26,40 @@ body {
   width: 15%;
 }
 
-.center{
+.center {
   text-align: center;
-  
 }
 
-.resize{
+.resize {
   height: 60px;
   width: auto;
 }
 
-.resize1{
+.resize1 {
   height: 120px;
   width: auto;
 }
 
-.intro{
+.intro {
   font-weight: bold;
   font-size: 60px;
 }
 
-.intro2{
+.intro2 {
   font-weight: bold;
 }
 
 .center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
- .carousel-inner img {
+.carousel-inner img {
   margin: auto;
 }
 
-.button1{
+.button1 {
   background-color: #e7e7e7;
   font-size: 20px;
   color: black;
@@ -70,67 +69,66 @@ body {
   padding: 10px 24px;
 }
 
-.button1:hover{
+.button1:hover {
   opacity: 0.6;
 }
 
-.selfie:hover{
+.selfie:hover {
   opacity: 0.6;
 }
 
-.name{
-    font-size: 50px;
+.name {
+  font-size: 50px;
 }
 
-.nav-link{
+.nav-link {
   font-weight: bolder;
   font-size: 20px;
 }
 
-.profileWhiteSpace{
+.profileWhiteSpace {
   height: 200px;
 }
 
-.whiteSpace{
+.whiteSpace {
   height: 200px;
 }
 
-.classOneColor{
-  background-color: #A8D0E6;
+.classOneColor {
+  background-color: #a8d0e6;
 }
 
-.classTwoColor{
+.classTwoColor {
   background-color: white;
 }
 
-.classThreeColor{
-  background-color: #88BDBC;
+.classThreeColor {
+  background-color: #88bdbc;
 }
 
-.classFourColor{
+.classFourColor {
   background-color: #404040;
 }
 
-.nameBold{
+.nameBold {
   font-weight: 900;
 }
 
-.whiteSpace1{
+.whiteSpace1 {
   height: 50px;
 }
 
-.whiteSpace2{
+.whiteSpace2 {
   height: 30px;
 }
 
-.navPadding{
+.navPadding {
   height: 80px;
 }
 
-.fontColor{
+.fontColor {
   color: white;
 }
-
 
 .loc-caption:before {
   content: attr(title);
@@ -141,7 +139,13 @@ div.a {
   font-size: 15px;
 }
 
+.section-gap {
+  padding: 100px 0;
+}
 
+.project-area {
+  background-color: #f9f9ff;
+}
 /* table, th, td {
   border-style: solid;
   border-width: 2px;
